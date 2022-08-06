@@ -1,4 +1,4 @@
-# Some-Information-About-Java-
+# Some-Informations-About-Java-
 java keys
 
 JDK Nedir?
